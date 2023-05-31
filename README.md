@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django, MERN**
+- 💬 Ask me about **FastAPI, MERN**
 
 - 📫 How to reach me **danlepofficial@gmail.com**
 
