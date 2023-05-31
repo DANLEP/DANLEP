@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danlep&label=Profile%20views&color=0e75b6&style=flat" alt="danlep" /> </p>
 
-- 🔭 I’m currently working on **AutoSeller**
+- 🔭 I’m currently working on **Restaurant Automation System**
 
 - 🌱 I’m currently learning **React**
 
