@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danlep&label=Profile%20views&color=0e75b6&style=flat" alt="danlep" /> </p>
 
-- 🔭 I’m currently working on **Restaurant Automation System**
+- 🔭 I’m currently working on **Spotify Clone**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.JS & DevOps**
 
-- 💬 Ask me about **FastAPI, MERN**
+- 💬 Ask me about **FastAPI, MERN, AWS, Jenkins**
 
 - 📫 How to reach me **danlepofficial@gmail.com**
 
