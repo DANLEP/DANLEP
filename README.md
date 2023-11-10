@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danlep&label=Profile%20views&color=0e75b6&style=flat" alt="danlep" /> </p>
 
-- 🔭 I’m currently working on **Cloud Storage**
+- 🔭 I’m currently working on **TravellerApp**
 
-- 🌱 I’m currently learning **Next.JS & DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - ▶︎ My last project **https://spotify-clone-danlep.vercel.app/**
 
-- 💬 Ask me about **FastAPI, MERN, AWS, Jenkins**
+- 💬 Ask me about **GCP, AWS, Jenkins, bash, Python, JavaScript, SCRUM**
 
 - 📫 How to reach me **danlepofficial@gmail.com**
 
